@@ -1,0 +1,12 @@
+/nbproject/private/
+/node_modules
+/builds
+# generated
+/dist
+/builds
+.tmp/
+war/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
